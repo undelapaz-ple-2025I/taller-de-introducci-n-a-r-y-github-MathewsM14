@@ -13,3 +13,4 @@ solucion <- function() {
   a <- 10
   return(s)
 }
+solucion()

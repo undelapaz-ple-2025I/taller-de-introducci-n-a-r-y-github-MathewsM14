@@ -7,3 +7,4 @@ solucion <- function(){
   s <- paste('hola', parte2, sep = " ") # modificar si es necesario
   return(s)
 }
+solucion()
