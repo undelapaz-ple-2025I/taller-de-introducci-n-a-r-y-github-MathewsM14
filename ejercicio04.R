@@ -7,4 +7,4 @@ solucion <- function() {
   s <- 2*(a+b)+2
   return(s)
 }
-solucion()
+  solucion()
