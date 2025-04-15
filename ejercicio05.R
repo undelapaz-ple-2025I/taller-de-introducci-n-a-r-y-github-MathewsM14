@@ -9,4 +9,3 @@ solucion <- function() {
  
   return(s) 
 }
-solucion()
